@@ -1,5 +1,5 @@
 
-var synonyms = ["clever use of statistics", "machine learning", "multinomial logistic regression", "fully connected neural networks"];
+var synonyms = ["clever use of statistics", "machine learning", "multinomial logistic regression", "fully connected neural networks", "expert system", "deep learning", "feature engineering"];
 
 function replaceAll(str, find, replace) {
   return str.replace(new RegExp(find, 'g'), replace);

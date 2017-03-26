@@ -1,4 +1,4 @@
 # Sober-AI
 --------------
 
-A Chrome extension to sober down hyped machine learning webpages
+Chrome extension to replace mentions of "AI" with Machine Learning related terminology.

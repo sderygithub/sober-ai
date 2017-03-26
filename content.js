@@ -1,3 +1,4 @@
+
 var synonyms = ["clever use of statistics", "machine learning", "multinomial logistic regression", "fully connected neural networks"];
 
 function replaceAll(str, find, replace) {
